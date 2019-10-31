@@ -19,5 +19,5 @@ function accessElementInArray (array, index) {
 }
 
 function (array) {
-  return array.shift()
+  return array.shift
 }
